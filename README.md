@@ -1,3 +1,3 @@
 # Game-Of-House
-Simple Open World Game
-Free Roam Using CLI
+Simple Open World
+Free Roam Game Using CLI
